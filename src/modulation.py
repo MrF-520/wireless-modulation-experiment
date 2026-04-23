@@ -7,6 +7,7 @@ import numpy as np
 from utils import plot_constellation
 
 
+
 def bpsk_modulate(bits):
     """
     BPSK (Binary Phase Shift Keying) 调制
